@@ -11,10 +11,10 @@
 
 ### 🛠 Technical Skills
 
-- **Frontend:** JavaScript, React.js, HTML5, CSS3, React-Bootstrap
+- **Frontend:** JavaScript,Typescript, React, HTML5, CSS3, TailwindCSS, React-Bootstrap
 - **Backend:** Node.js, Express.js, RESTful APIs
 - **Database:** MongoDB
-- **Tools & Others:** Redux, Git, GitHub, Postman, Axios
+- **Tools & Others:** Redux, Git, GitHub, Postman, Axios, Firebase, Socket.io
 
 ---
 
