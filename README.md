@@ -2,8 +2,8 @@
 
 **🚀 MERN Stack Developer | Passionate about building scalable and efficient web applications**
 
-[![LinkedIn](https://img.shields.io/badge/-Amal%20A%20K-blue?logo=Linkedin&style=flat-square)](https://www.linkedin.com/in/amal-a-k-3ab219218/)  
-📍 Trivandrum, Kerala, India | 📧 amal.anandvijay@gmail.com | 🌐 [Portfolio Website](https://amalakportfolio.netlify.app/)
+📍 Trivandrum, Kerala, India | 📧 amal.anandvijay@gmail.com | [LinkedIn](https://www.linkedin.com/in/amal-a-k-3ab219218/) |
+🌐 [Portfolio Website](https://amalakportfolio.netlify.app/)
 
 ---
 
