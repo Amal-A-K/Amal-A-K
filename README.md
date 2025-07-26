@@ -1,43 +1,89 @@
-# Hi there, I'm Amal A K! 👋
+# 👋 Hi there, I'm Amal A K!
 
-**MERN Stack Developer | Passionate about building scalable and efficient web applications**
+**🚀 MERN Stack Developer | Passionate about building scalable and efficient web applications**
 
-- 🌱 Currently pursuing MCA at Indira Gandhi National Open University.
-- 🎓 Bachelor’s in Computer Science from Emmanuel College, Kerala.
-- 💼 Recently completed a MERN stack internship at SCIPY TECHNOLOGIES, where I contributed to building a microservices-oriented ERP for educational institutions.
-- 🔧 Skilled in MongoDB, Express.js, React.js, and Node.js, with additional experience in Redux, Git, Postman, and RESTful API development.
+[![LinkedIn](https://img.shields.io/badge/-Amal%20A%20K-blue?logo=Linkedin&style=flat-square)](https://www.linkedin.com/in/amal-a-k-3ab219218/)  
+📍 Trivandrum, Kerala, India | 📧 amal.anandvijay@gmail.com | 🌐 [Portfolio Website](https://amalakportfolio.netlify.app/)
+
+---
+
+### 🧑‍💻 About Me
+
+- 🧑‍🎓 Graduated in BSc Computer Science from **Emmanuel College, Kerala**
+- 💼 **Full Stack Developer Intern at Relaxplzz Technologies** (Apr 2025 – Present)
+- 💼 **MERN Stack Intern at SCIPY TECHNOLOGIES** (Jun 2023 – Jan 2024)
+- 🌱 Passionate about clean code, responsive UI, real-time features, and backend performance
 
 ---
 
 ### 🛠 Technical Skills
 
-- **Frontend:** JavaScript,Typescript, React, HTML5, CSS3, TailwindCSS, React-Bootstrap
-- **Backend:** Node.js, Express.js, RESTful APIs
-- **Database:** MongoDB
-- **Tools & Others:** Redux, Git, GitHub, Postman, Axios, Firebase, Socket.io
+**Languages & Frameworks:**  
+`JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind CSS`
+
+**Frontend:**  
+`React.js` `Redux` `React-Bootstrap` `Vite`
+
+**Backend:**  
+`Node.js` `Express.js` `MongoDB` `RESTful APIs`
+
+**Tools & Platforms:**  
+`Git` `GitHub` `Postman` `Axios` `Firebase` `Socket.IO`
 
 ---
 
-### 📂 Projects
+### 📂 Featured Projects
 
-#### ERP for Educational Institute
-*Duration: June 2023 - January 2024*
+#### 📘 ERP for Educational Institute  
+> *Microservices-based ERP system for managing educational workflows*  
+🔧 Stack: React, Node.js, Express.js, MongoDB, Redux  
+✅ Improved backend response by 25%, frontend responsiveness by 40%
 
-- **Backend:** Developed RESTful APIs with Node.js, enhancing backend performance and API reliability by 25%.
-- **Frontend:** Built responsive and dynamic interfaces using React.js and CSS3, improving user satisfaction by 15%.
-- **State Management:** Implemented Redux for predictable state management, boosting development productivity by 20%.
-- **Database:** Optimized data handling with MongoDB, resulting in a 40% improvement in query performance.
-- **Testing:** Used Postman to rigorously test APIs, resolving over 50 bugs and enhancing API performance by 20%.
+---
+
+#### 🛒 E-Commerce Platform  
+> *Full-featured e-commerce platform with authentication, product management, and cart system*  
+🔧 Stack: React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS
+
+---
+
+#### 💬 Real-Time Chat App  
+> *A real-time messaging app with Socket.IO, authentication, and context-based state management*  
+🔧 Stack: React, TypeScript, Node.js, Express, Socket.IO, MongoDB, Tailwind CSS
+
+---
+
+#### 🎲 Dice Game  
+> *Interactive React dice game with modular components and score tracking*  
+🔧 Stack: React, JavaScript, CSS Modules
+
+---
+
+### 💼 Experience
+
+**Relaxplzz Technologies** — *Full Stack Developer Intern*  
+_April 2025 – Present_  
+- Built real-time chat functionality using WebSocket and Socket.IO  
+- Developed frontend in React with TypeScript and Tailwind CSS  
+- Contributed to e-commerce and internal web applications
+
+**Scipy Technologies** — *MERN Stack Intern*  
+_June 2023 – January 2024_  
+- Developed a microservices ERP system  
+- Built scalable RESTful APIs and responsive UIs  
+- Used Redux, MongoDB, and Postman for testing/debugging
+
+---
+
+### 🌐 Languages
+
+`English` `Malayalam` `Tamil` `Hindi`
 
 ---
 
 ### 📫 Let's Connect!
 
-- **Email:** amal.anandvijay@gmail.com
-- **LinkedIn:** [Amal A K](https://www.linkedin.com/in/amal-a-k-3ab219218/)
-- **Location:** Trivandrum, Kerala, India
-- **Website:** [Amal A K Portfolio](https://amalakportfolio.netlify.app/)
+If you're looking for a dedicated full stack developer or want to collaborate on exciting projects, feel free to reach out!
 
 ---
 
-Thank you for visiting my profile! 😊 I'm open to new opportunities and collaborations, especially in MERN stack development and web application engineering.
