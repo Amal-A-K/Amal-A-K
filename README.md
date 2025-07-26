@@ -36,6 +36,7 @@
 - **Email:** amal.anandvijay@gmail.com
 - **LinkedIn:** [Amal A K](https://www.linkedin.com/in/amal-a-k-3ab219218/)
 - **Location:** Trivandrum, Kerala, India
+- **Website:** [Amal A K Portfolio](https://amalakportfolio.netlify.app/)
 
 ---
 
