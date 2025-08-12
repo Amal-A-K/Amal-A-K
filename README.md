@@ -55,14 +55,14 @@
 
 ---
 
-#### ✅ To-Do App  
+#### ✅ To-Do App - [GitHub](https://github.com/Amal-A-K/MERN-TO-DO-APP) |  [Live](https://mern-to-do-app-ui.onrender.com/) 
 > *A full-stack to-do application with secure user authentication, a responsive UI, and database integration. It was built using MongoDB, Express.js, React.js, and Node.js and deployed on Render for scalable cloud hosting.*
 >  
 🔧 Stack: MongoDB Atlas, Express.js, React.js, Redux, Redux-Toolkit, Node.js, Tailwind CSS, Render.
 
 ---
 
-#### 🎲 Dice Game  
+#### 🎲 Dice Game - [GitHub](https://github.com/Amal-A-K/Dice_Game) |  [Live](https://dice-game-nine-inky-78.vercel.app/)
 > *An interactive React-based dice game with modular components that includes score tracking and conditional rendering. The application is hosted on Vercel.*
 >   
 🔧 Stack: React, JavaScript, CSS Modules, Vercel
