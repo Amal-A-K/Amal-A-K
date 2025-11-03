@@ -4,7 +4,7 @@
 
 📍 Trivandrum, Kerala, India  
 📧 [amal.anandvijay@gmail.com](mailto:amal.anandvijay@gmail.com)  
-🔗 [Portfolio](https://amalakportfolio.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/amal-a-k-3ab219218/) • [GitHub](https://github.com/Amal-A-K)
+🔗 [Portfolio](https://amalakportfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/amal-a-k-3ab219218/) | [GitHub](https://github.com/Amal-A-K)
 
 
 ---
