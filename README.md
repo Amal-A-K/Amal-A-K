@@ -24,28 +24,30 @@
 ### 🛠 Tech Stack
 
 **Frontend:** React.js, Next.js, Redux, shadcn/ui, Tailwind CSS, HTML5, CSS3, Vite  
-**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Prisma ORM, RESTful APIs  
+**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, NeonDB, Prisma ORM, RESTful APIs  
 **Languages:** JavaScript, TypeScript  
-**Tools:** VS Code, Cursor AI, Windsurf AI, Git, GitHub, Postman, Axios  
+**Development & AI Tools:** VS Code, Cursor AI, Windsurf AI, Git, GitHub, Postman, Axios  
 **Cloud & Real-time:** Firebase, Socket.IO, Render, Vercel, Netlify
 
 ---
 
 ### 📂 Featured Projects
+*(A selection of projects showcasing my full-stack development skills and real-world problem-solving experience.)*
+
 
 #### 💰 [FinSight – Personal Finance Tracker](https://github.com/Amal-A-K/FinSight) | [Live](https://fin-sight-nine.vercel.app/)
 > *A finance tracker to monitor income, expenses, and category-wise insights. Built using **Next.js (TypeScript)**, **Prisma ORM**, **PostgreSQL**, **Tailwind CSS**, and **shadcn/ui**. Deployed on **Vercel** with automated CI/CD*.
 >
-🔧 Stack: Next.js(Typescript), shadcn/ui, Tailwind CSS. PostgreSQL, Prisma ORM, NeonDB, Vercel  
+🔧 Stack: Next.js (TypeScript), shadcn/ui, Tailwind CSS. PostgreSQL, Prisma ORM, NeonDB, Vercel  
 
-#### 🎁 [GiftoMart](#)  
+#### 🎁 GiftoMart  
 > *A comprehensive gift management platform featuring user authentication, gift creation/tracking, and real-time updates. The backend was built with Node.js, Express.js, and MongoDB Atlas, while the responsive frontend was developed using React, TypeScript, and Tailwind CSS.*
 >   
 🔧 Stack: Node.js, Express.js, MongoDB Atlas, TypeScript, React, Tailwind CSS, REST APIs, GitHub.  
 
 ---
 
-#### 📘 [ERP for Educational Institute](#)  
+#### 📘 ERP for Educational Institute  
 >  *Developed a microservices-based ERP web application to manage educational workflows, focusing on building RESTful APIs and admin dashboards. Delivered a 25% improvement in backend response time and a 40% increase in front-end responsiveness.*
 >  
 🔧 Stack: React.js, Node.js, Express.js, MongoDB, Redux  
@@ -111,6 +113,8 @@ _June 2023 – January 2024_
 
 ![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amal-A-K&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-A-K&layout=compact&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=Amal-A-K&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
 
 
 ### 📫 Let's Connect!
