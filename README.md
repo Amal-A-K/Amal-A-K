@@ -61,7 +61,7 @@
 
 ### 💡 Other Foundational Projects
 
-*(Showcasing a wider range of development skills: [E-Commerce Platform](https://github.com/Amal-A-K/Typescript_Learning/tree/main/E-Commerce), [To-Do App](https://github.com/Amal-A-K/MERN-TO-DO-APP), [Dice Game](https://github.com/Amal-A-K/Dice_Game))*
+*(Showcasing a wider range of development skills: [E-Commerce Platform](https://github.com/Amal-A-K/Typescript_Learning/tree/main/E-Commerce), [AI-Product Finder](https://github.com/Amal-A-K/aiProductRecomendor), [To-Do App](https://github.com/Amal-A-K/MERN-TO-DO-APP), [Dice Game](https://github.com/Amal-A-K/Dice_Game))*
 
 ---
 
