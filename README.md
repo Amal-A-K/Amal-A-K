@@ -31,14 +31,14 @@
 ### 📂 Featured Projects (Complex & Professional Work)
 
 #### 🚀 [Multi-Tenant SaaS Migration](https://github.com/Amal-A-K) 
-> [span_9](start_span)Engineered the migration of a standard application into a **multi-tenant SaaS platform**[span_9](end_span). [span_10](start_span)Implemented strict **data isolation** and tenant-specific logic using **PostgreSQL and Sequelize**[span_10](end_span).
+> Engineered the migration of a standard application into a **multi-tenant SaaS platform**Implemented strict **data isolation** and tenant-specific logic using **PostgreSQL and Sequelize**.
 > 
-[span_11](start_span)🔧 **Stack:** React, TypeScript, Node.js, PostgreSQL, Sequelize, Tailwind CSS[span_11](end_span).
+🔧 **Stack:** React, TypeScript, Node.js, PostgreSQL, Sequelize, Tailwind CSS.
 
 #### 💰 [FinSight – Personal Finance Tracker](https://github.com/Amal-A-K/FinSight) | [Live](https://fin-sight-nine.vercel.app/)
-> [span_12](start_span)A full-stack finance application featuring real-time income/expense tracking and a structured database schema using **Prisma ORM** for type safety[span_12](end_span).
+> A full-stack finance application featuring real-time income/expense tracking and a structured database schema using **Prisma ORM** for type safety.
 > 
-[span_13](start_span)[span_14](start_span)🔧 **Stack:** Next.js (TypeScript), PostgreSQL, Prisma ORM, NeonDB, Vercel[span_13](end_span)[span_14](end_span).
+🔧 **Stack:** Next.js (TypeScript), PostgreSQL, Prisma ORM, NeonDB, Vercel.
 
 #### 🤖 [AI-Product Finder](https://github.com/Amal-A-K/aiProductRecomendor)
 > Integrated an **AI model** to provide intelligent, real-time suggestions during the search process, enhancing user experience through predictive UX.
@@ -49,12 +49,12 @@
 
 ### 💼 Professional Experience
 
-**Softnotions Private Limited** — *Software Engineer Trainee* | *[span_15](start_span)Jan 2026 – Present* * Leading the architectural shift of legacy systems to **Scalable SaaS solutions**[span_15](end_span).  
-* [span_16](start_span)[span_17](start_span)Collaborating on **PERN stack** (Postgres, Express, React, Node) development with a focus on system reliability[span_16](end_span)[span_17](end_span).
+**Softnotions Private Limited** — *Software Engineer Trainee* | *Jan 2026 – Present* * Leading the architectural shift of legacy systems to **Scalable SaaS solutions**.  
+* Collaborating on **PERN stack** (Postgres, Express, React, Node) development with a focus on system reliability.
 
-**Relaxplzz Technologies** — *MERN Stack Developer* | *[span_18](start_span)April 2025 – Aug 2025* * Built the Gift Management module using **TypeScript** and **Node.js**, improving workflow efficiency[span_18](end_span).
+**Relaxplzz Technologies** — *MERN Stack Developer* | *April 2025 – Aug 2025* * Built the Gift Management module using **TypeScript** and **Node.js**, improving workflow efficiency.
 
-**SciPy Technologies** — *MERN Stack Developer* | *[span_19](start_span)[span_20](start_span)June 2023 – Jan 2024* * Contributed to a **microservices-based ERP**, achieving a **25% improvement in backend response time**[span_19](end_span)[span_20](end_span).
+**SciPy Technologies** — *MERN Stack Developer* | *June 2023 – Jan 2024* * Contributed to a **microservices-based ERP**, achieving a **25% improvement in backend response time**.
 
 ---
 
