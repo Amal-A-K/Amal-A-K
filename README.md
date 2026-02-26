@@ -49,12 +49,15 @@
 
 ### 💼 Professional Experience
 
-**Softnotions Private Limited** — *Software Engineer Trainee* | *Jan 2026 – Present* * Leading the architectural shift of legacy systems to **Scalable SaaS solutions**.  
+**Softnotions Private Limited** — *Software Engineer Trainee* | *Jan 2026 – Present* 
+* Leading the architectural shift of legacy systems to **Scalable SaaS solutions**.  
 * Collaborating on **PERN stack** (Postgres, Express, React, Node) development with a focus on system reliability.
 
-**Relaxplzz Technologies** — *MERN Stack Developer* | *April 2025 – Aug 2025* * Built the Gift Management module using **TypeScript** and **Node.js**, improving workflow efficiency.
+**Relaxplzz Technologies** — *MERN Stack Developer* | *April 2025 – Aug 2025* 
+* Built the Gift Management module using **TypeScript** and **Node.js**, improving workflow efficiency.
 
-**SciPy Technologies** — *MERN Stack Developer* | *June 2023 – Jan 2024* * Contributed to a **microservices-based ERP**, achieving a **25% improvement in backend response time**.
+**SciPy Technologies** — *MERN Stack Developer* | *June 2023 – Jan 2024* 
+* Contributed to a **microservices-based ERP**, achieving a **25% improvement in backend response time**.
 
 ---
 
