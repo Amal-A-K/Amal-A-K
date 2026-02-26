@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-* **[span_0](start_span)Current Focus:** Transitioning legacy systems into modern, scalable **Multi-tenant SaaS solutions** at **Softnotions Private Limited**[span_0](end_span).
+* **Current Focus:** Transitioning legacy systems into modern, scalable **Multi-tenant SaaS solutions** at **Softnotions Private Limited**[span_0](end_span).
 * **[span_1](start_span)Core Stack:** Deep expertise in **Next.js, TypeScript, PostgreSQL (NeonDB), and MongoDB**[span_1](end_span).
 * **[span_2](start_span)AI-First Workflow:** Leveraging **Antigravity, Cursor AI, and Windsurf AI** to deliver high-quality, refactored code at an accelerated pace[span_2](end_span).
 * **[span_3](start_span)[span_4](start_span)Engineering Mindset:** Focused on **microservices architecture**, data isolation, and backend performance optimization[span_3](end_span)[span_4](end_span).
