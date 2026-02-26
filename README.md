@@ -10,10 +10,10 @@
 
 ### 🧑‍💻 About Me
 
-* **Current Focus:** Transitioning legacy systems into modern, scalable **Multi-tenant SaaS solutions** at **Softnotions Private Limited**[span_0](end_span).
-* **[span_1](start_span)Core Stack:** Deep expertise in **Next.js, TypeScript, PostgreSQL (NeonDB), and MongoDB**[span_1](end_span).
-* **[span_2](start_span)AI-First Workflow:** Leveraging **Antigravity, Cursor AI, and Windsurf AI** to deliver high-quality, refactored code at an accelerated pace[span_2](end_span).
-* **[span_3](start_span)[span_4](start_span)Engineering Mindset:** Focused on **microservices architecture**, data isolation, and backend performance optimization[span_3](end_span)[span_4](end_span).
+* **Current Focus:** Transitioning legacy systems into modern, scalable **Multi-tenant SaaS solutions** at **Softnotions Private Limited**.
+* **Core Stack:** Deep expertise in **Next.js, React.js, TypeScript, PostgreSQL (NeonDB), and MongoDB**.
+* **AI-First Workflow:** Leveraging **Antigravity, Cursor AI,VS Code and Windsurf AI** to deliver high-quality, refactored code at an accelerated pace.
+* **Engineering Mindset:** Focused on **microservices architecture**, data isolation, and backend performance optimization.
 
 ---
 
@@ -21,10 +21,10 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | [span_5](start_span)Next.js, React.js, TypeScript, Redux Toolkit, shadcn/ui, Tailwind CSS[span_5](end_span) |
-| **Backend** | [span_6](start_span)Node.js, Express.js, PostgreSQL, MongoDB, Prisma ORM, Sequelize[span_6](end_span) |
-| **Cloud/DevOps** | [span_7](start_span)Vercel, Render, Netlify, Docker (basic), GitHub Actions[span_7](end_span) |
-| **AI Tools** | [span_8](start_span)Antigravity, Cursor AI, Windsurf AI, Claude, VS Code AI Workflows[span_8](end_span) |
+| **Frontend** | Next.js, React.js, TypeScript, Redux Toolkit, shadcn/ui, Tailwind CSS |
+| **Backend** | Node.js, Express.js, PostgreSQL, MongoDB, Prisma ORM, Sequelize |
+| **Cloud/DevOps** | Vercel, Render, Netlify, Docker (basic), GitHub Actions |
+| **AI Tools** | Antigravity, Cursor AI, Windsurf AI, Claude, VS Code AI Workflows |
 
 ---
 
