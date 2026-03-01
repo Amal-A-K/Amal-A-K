@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Amal A K!
 
-🚀 **Full Stack Engineer | Next.js, MongoDB & PERN Stack | SaaS & AI Specialist** Passionate about building scalable, intelligent, and multi-tenant web applications.
+🚀 **Full Stack Engineer | Next.js, MongoDB & PERN Stack | SaaS & AI Specialist** 
+> Passionate about building scalable, intelligent, and multi-tenant web applications.
 
 📍 Trivandrum, Kerala, India  
 📧 [amal.anandvijay@gmail.com](mailto:amal.anandvijay@gmail.com)  
