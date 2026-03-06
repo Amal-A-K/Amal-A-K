@@ -32,7 +32,8 @@
 ### 📂 Featured Projects (Complex & Professional Work)
 
 #### 🚀 [Multi-Tenant SaaS Migration](https://github.com/Amal-A-K) 
-> Engineered the migration of a standard application into a **multi-tenant SaaS platform**Implemented strict **data isolation** and tenant-specific logic using **PostgreSQL and Sequelize**.
+> Engineered the migration of a standard application into a **multi-tenant SaaS platform**
+Implemented strict **data isolation** and tenant-specific logic using **PostgreSQL and Sequelize**.
 > 
 🔧 **Stack:** React, TypeScript, Node.js, PostgreSQL, Sequelize, Tailwind CSS.
 
