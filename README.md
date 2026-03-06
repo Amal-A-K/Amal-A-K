@@ -1,75 +1,233 @@
-# 👋 Hi there, I'm Amal A K!
+# 👋 Hi, I'm Amal A K
 
-🚀 **Full Stack Engineer | Next.js, MERN & PERN Stack | SaaS & AI Specialist** 
-> Passionate about building scalable, intelligent, and multi-tenant web applications.
+🚀 **Full-Stack Software Engineer | SaaS Architecture | MERN & PERN Stack**
+
+Passionate about building **scalable SaaS platforms, multi-tenant architectures, and high-performance backend systems**.  
+I specialize in developing **production-ready web applications** using modern technologies and clean architecture principles.
 
 📍 Trivandrum, Kerala, India  
-📧 [amal.anandvijay@gmail.com](mailto:amal.anandvijay@gmail.com)  
-🔗 [Portfolio](https://amalakportfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/amal-a-k-3ab219218/) | [GitHub](https://github.com/Amal-A-K)
+📧 amal.anandvijay@gmail.com  
+
+🔗 **Connect with me**
+
+- 💼 LinkedIn: https://www.linkedin.com/in/amal-a-k-3ab219218/  
+- 🌐 Portfolio: https://amalakportfolio.netlify.app/  
+- 🧑‍💻 GitHub: https://github.com/Amal-A-K  
 
 ---
 
-### 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-* **Current Focus:** Transitioning legacy systems into modern, scalable **Multi-tenant SaaS solutions** at **Softnotions Private Limited**.
-* **Core Stack:** Deep expertise in **Next.js, React.js, TypeScript, PostgreSQL (NeonDB), and MongoDB**.
-* **AI-First Workflow:** Leveraging **Antigravity, Cursor AI,VS Code and Windsurf AI** to deliver high-quality, refactored code at an accelerated pace.
-* **Engineering Mindset:** Focused on **microservices architecture**, data isolation, and backend performance optimization.
+I am a **Full-Stack Software Engineer** focused on designing **scalable SaaS platforms and cloud-native applications**.
 
----
+My work focuses on:
 
-### 🛠 Tech Stack
+- Multi-tenant SaaS architecture  
+- Backend system scalability  
+- Secure REST API design  
+- Database architecture & optimization  
+- AI-assisted development workflows  
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | Next.js, React.js, TypeScript, Redux Toolkit, shadcn/ui, Tailwind CSS |
-| **Backend** | Node.js, Express.js, PostgreSQL, MongoDB, Prisma ORM, Sequelize |
-| **Cloud/DevOps** | Vercel, Render, Netlify, Docker (basic), GitHub Actions |
-| **AI Tools** | Antigravity, Cursor AI, Windsurf AI, Claude, VS Code AI Workflows |
+Currently working on **modernizing legacy healthcare systems into scalable SaaS platforms**.
 
 ---
 
-### 📂 Featured Projects (Complex & Professional Work)
+# 🚀 What I'm Currently Working On
 
-#### 🚀 [Multi-Tenant SaaS Migration](https://github.com/Amal-A-K) 
-> Engineered the migration of a standard application into a **multi-tenant SaaS platform**.
-Implemented strict **data isolation** and tenant-specific logic using **PostgreSQL and Sequelize**.
-> 
-🔧 **Stack:** React, TypeScript, Node.js, PostgreSQL, Sequelize, Tailwind CSS.
+### 🏥 DiagnomIQ – Multi-Tenant Healthcare SaaS Platform
 
-#### 💰 [FinSight – Personal Finance Tracker](https://github.com/Amal-A-K/FinSight) | [Live](https://fin-sight-nine.vercel.app/)
-> A full-stack finance application featuring real-time income/expense tracking and a structured database schema using **Prisma ORM** for type safety.
-> 
-🔧 **Stack:** Next.js (TypeScript), PostgreSQL, Prisma ORM, NeonDB, Vercel.
+Building a scalable healthcare SaaS platform with:
 
-#### 🤖 [AI-Product Finder](https://github.com/Amal-A-K/aiProductRecomendor)
-> Integrated an **AI model** to provide intelligent, real-time suggestions during the search process, enhancing user experience through predictive UX.
-> 
-🔧 **Stack:** React, Node.js, AI API Integration, Tailwind CSS.
+- Database-per-tenant architecture
+- Dynamic tenant provisioning
+- Automated PostgreSQL database creation
+- Subdomain automation using Cloudflare API
+- Secure file storage using AWS S3
+- JWT authentication & RBAC authorization
 
 ---
 
-### 💼 Professional Experience
+# 🛠 Tech Stack
 
-**Softnotions Private Limited** — *Software Engineer Trainee* | *Jan 2026 – Present* 
-* Leading the architectural shift of legacy systems to **Scalable SaaS solutions**.  
-* Collaborating on **PERN stack** (Postgres, Express, React, Node) development with a focus on system reliability.
+## Frontend
+- React.js  
+- Next.js  
+- TypeScript  
+- Redux Toolkit  
+- Tailwind CSS  
+- shadcn/ui  
+- Material UI  
 
-**Relaxplzz Technologies** — *MERN Stack Developer* | *April 2025 – Aug 2025* 
-* Built the Gift Management module using **TypeScript** and **Node.js**, improving workflow efficiency.
+## Backend
+- Node.js  
+- Express.js  
+- REST API Architecture  
+- JWT Authentication  
+- Role-Based Access Control (RBAC)
 
-**SciPy Technologies** — *MERN Stack Developer* | *June 2023 – Jan 2024* 
-* Contributed to a **microservices-based ERP**, achieving a **25% improvement in backend response time**.
+## Databases
+- PostgreSQL  
+- MongoDB  
+- Prisma ORM  
+- Sequelize ORM  
+
+## Cloud & DevOps
+- Vercel  
+- Netlify  
+- Render  
+- AWS S3  
+- Cloudflare DNS  
+- Docker (Basic)  
+- CI/CD Pipelines  
+
+## Tools
+- GitHub  
+- Postman  
+- VS Code  
 
 ---
 
-### 📊 GitHub Activity
+# 🧠 Engineering Focus
+
+I enjoy solving **complex backend and system design challenges**.
+
+My core engineering interests include:
+
+- Multi-Tenant SaaS Architecture
+- Microservices Concepts
+- Secure API Design
+- Database-Per-Tenant Systems
+- Performance Optimization
+- Clean Architecture
+
+---
+
+# 📂 Featured Projects
+
+## 🏥 DiagnomIQ – Multi-Tenant Healthcare SaaS Platform
+
+**Tech:** React, TypeScript, Node.js, Express.js, PostgreSQL, Sequelize, AWS S3, Cloudflare API
+
+Key features:
+
+- Database-per-tenant architecture ensuring full data isolation
+- Automated tenant onboarding system
+- Dynamic PostgreSQL database provisioning
+- Cloudflare DNS automation for tenant subdomains
+- Secure medical file storage using AWS S3
+- JWT authentication with role-based access control
+
+---
+
+## 💰 FinSight – Personal Finance Tracker
+
+🔗 https://fin-sight-nine.vercel.app/
+
+**Tech:** Next.js, TypeScript, PostgreSQL, Prisma ORM, Tailwind CSS
+
+Features:
+
+- Real-time income and expense tracking
+- Interactive dashboards and analytics
+- Type-safe database operations using Prisma ORM
+- Optimized PostgreSQL queries
+- Global deployment using Vercel
+
+---
+
+## 🤖 AI Product Finder
+
+🔗 https://github.com/Amal-A-K/aiProductRecomendor
+
+**Tech:** React.js, Node.js, AI API Integration, Tailwind CSS
+
+Features:
+
+- AI-powered product recommendation system that provides intelligent product suggestions
+- Integrated external AI APIs to analyze user queries and return relevant product matches
+- Built a responsive and modern UI using React and Tailwind CSS
+- Enhanced user experience with predictive search and smart recommendations
+- Designed scalable backend services using Node.js and Express.js
+
+---
+
+## 🎁 GiftoMart – Gift Management Platform
+
+**Tech:** React, Node.js, Express.js, MongoDB, TypeScript
+
+Features:
+
+- Gift creation and management modules
+- Secure user authentication
+- RESTful backend APIs
+- Scalable backend architecture
+
+---
+
+## 🏫 ERP System – Educational Institute
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, Redux
+
+Features:
+
+- Modular ERP system for institutional workflows
+- Centralized state management using Redux
+- External API integrations using Axios
+- Backend APIs for academic data management
+
+---
+
+# 💼 Professional Experience
+
+### Software Engineer Trainee  
+**Softnotions Technologies Private Limited — Technopark, Trivandrum**  
+Jan 2026 – Present
+
+- Leading migration of legacy healthcare systems into scalable **multi-tenant SaaS architecture**
+- Designed **database-per-tenant system using PostgreSQL and Sequelize**
+- Implemented **dynamic tenant onboarding workflow**
+- Integrated **Cloudflare API for subdomain provisioning**
+- Built secure backend services using **JWT authentication and RBAC**
+
+---
+
+### MERN Stack Developer  
+**Relaxplzz Technologies — Technopark, Trivandrum**  
+Apr 2025 – Aug 2025
+
+- Built scalable frontend features using **React, TypeScript, and Tailwind CSS**
+- Developed REST APIs using **Node.js and Express**
+- Created reusable TypeScript components
+- Collaborated with cross-functional teams in an Agile environment
+
+---
+
+### MERN Stack Developer  
+**SciPy Technologies — Trivandrum**  
+Jun 2023 – Jan 2024
+
+- Contributed to development of **microservices-based ERP system**
+- Developed REST APIs and responsive React interfaces
+- Integrated external APIs using Axios
+- Implemented Redux for state management
+
+---
+
+# 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-A-K&layout=compact&theme=tokyonight)
-![trophy](https://github-profile-trophy.vercel.app/?username=Amal-A-K&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amal-A-K&show_icons=true&theme=tokyonight)
 
 ---
 
-### 📫 Let's Connect!
+# 🤝 Let's Connect
 
-I'm always open to discussing **SaaS architecture**, **AI integrations**, or **Full-stack opportunities**.
+I enjoy discussing:
+
+- SaaS architecture
+- Backend engineering
+- AI integrations
+- Full-stack development opportunities
+
+📩 **Feel free to reach out!**
