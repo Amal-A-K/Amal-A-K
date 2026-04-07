@@ -220,13 +220,15 @@ My core interests:
 
 # 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-A-K&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Amal-A-K)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amal-A-K)
+---
+# 🏆 GitHub Achievements
 
+🔗 **Achievements:** https://github.com/Amal-A-K?tab=achievements
 
+- 🦈 Pull Shark
+- 🚀 YOLO
 ---
 
 # 🤝 Let’s Connect
