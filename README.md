@@ -1,244 +1,254 @@
 # 👋 Hi, I'm Amal A K
 
-🚀 **Full-Stack Software Engineer | SaaS Architecture | MERN, PERN & AI-Driven Platforms**
+### 🚀 Full-Stack Software Engineer | React • Node.js • TypeScript • AI Applications • SaaS
 
-Passionate about building **scalable SaaS platforms, multi-tenant architectures, and production-grade backend systems**.  
-I specialize in **cloud-ready web applications, secure system design, and AI-powered healthcare workflows** using modern full-stack technologies.
+I'm a Full-Stack Software Engineer passionate about building **production-ready web applications**, **AI-powered products**, and **multi-tenant SaaS platforms** using modern JavaScript technologies.
 
-📍 Trivandrum, Kerala, India  
-📧 amal.anandvijay@gmail.com  
-
-## 🔗 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/amal-a-k-3ab219218/
-- 🌐 Portfolio: https://amalakportfolio.netlify.app/
-- 🧑‍💻 GitHub: https://github.com/Amal-A-K
+My experience includes developing scalable REST APIs, secure authentication systems, PostgreSQL and MongoDB database architectures, cloud integrations, and AI-enabled applications using Amazon Bedrock and Google Gemini.
 
 ---
 
-# 🧑‍💻 About Me
+## 🌐 Connect With Me
 
-I am a **Full-Stack Software Engineer** focused on building **scalable SaaS products, backend platforms, and AI-integrated healthcare systems**.
+📍 Trivandrum, Kerala, India
 
-My engineering focus includes:
+📧 **Email:** [amal.anandvijay@gmail.com](mailto:amal.anandvijay@gmail.com)
 
-- Multi-Tenant SaaS Architecture
-- Database-per-Tenant Systems
-- Secure REST API Design
-- Cloud-Based Infrastructure
-- AI & RAG Integrations
-- Performance Optimization
-- Clean Architecture
+🌐 **Portfolio:** https://amalakportfolio.netlify.app/
 
-Recently worked on **DiagnomIQ**, a healthcare SaaS platform involving **tenant isolation, secure medical data storage, AI-driven workflows, and analytics dashboards**.
+💼 **LinkedIn:** https://www.linkedin.com/in/amal-a-k-3ab219218/
+
+💻 **GitHub:** https://github.com/Amal-A-K
 
 ---
 
-# 🚀 Recent Work
+# 💡 About Me
 
-## 🏥 DiagnomIQ – Multi-Tenant Healthcare SaaS + AI
-
-Built a production-grade healthcare SaaS platform with:
-
-- Database-per-Tenant architecture
-- Automated tenant provisioning
-- Dynamic PostgreSQL database creation
-- Cloudflare subdomain automation
-- AWS S3 secure tenant file isolation
-- JWT authentication + RBAC
-- Amazon Bedrock + RAG integration
-- Medical analytics dashboards with Recharts
-- Survival probability charts for IPI / aaIPI scoring
+* 💻 Full-Stack Software Engineer
+* 🚀 Passionate about building production-grade web applications
+* 🏗 Experience developing Multi-Tenant SaaS platforms
+* 🤖 Interested in AI-powered software and LLM integrations
+* 🔒 Strong focus on secure REST APIs, authentication and backend architecture
+* 🌱 Always learning modern technologies and software engineering best practices
 
 ---
 
 # 🛠 Tech Stack
 
+## Languages
+
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+
 ## Frontend
-- React.js
-- Next.js
-- TypeScript
-- Redux Toolkit
-- Tailwind CSS
-- shadcn/ui
-- Material UI
-- Recharts
+
+* React.js
+* Next.js
+* Tailwind CSS
+* Material UI
+* shadcn/ui
+* Redux Toolkit
+* Recharts
 
 ## Backend
-- Node.js
-- Express.js
-- REST API Architecture
-- JWT Authentication
-- RBAC
-- Middleware Architecture
 
-## Databases & ORMs
-- PostgreSQL
-- MongoDB
-- Prisma ORM
-- Sequelize ORM
-- Mongoose
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+* Multer
 
-## Cloud, AI & DevOps
-- AWS S3
-- Amazon Bedrock
-- RAG
-- Cloudflare DNS
-- Vercel
-- Netlify
-- Render
-- Docker
-- CI/CD
+## Databases
 
-## Tools
-- GitHub
-- Postman
-- Cursor AI
-- Windsurf AI
-- VS Code
+* PostgreSQL
+* MongoDB
+* Prisma ORM
+* Sequelize ORM
+* Mongoose
 
----
+## AI & Cloud
 
-# 🧠 Engineering Focus
+* Amazon Bedrock
+* Google Gemini API
+* Retrieval-Augmented Generation (RAG)
+* AWS S3
+* Cloudflare
+* OCR (Tesseract.js)
 
-I enjoy solving **backend scalability, SaaS architecture, and AI workflow challenges**.
+## Deployment & Tools
 
-My core interests:
-
-- Multi-Tenant SaaS Systems
-- Database-per-Tenant Isolation
-- AI-Powered Healthcare Platforms
-- System Design
-- Microservices Concepts
-- Secure API Design
-- Cloud Automation
-- Performance Optimization
+* Git
+* GitHub
+* Docker
+* Postman
+* Axios
+* Vercel
+* Render
+* Netlify
+* VS Code
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-## 🏥 DiagnomIQ – Multi-Tenant Healthcare SaaS + AI
-**Tech:** React, TypeScript, Node.js, PostgreSQL, Sequelize, AWS S3, Cloudflare, JWT, Amazon Bedrock, Recharts
+## 🏥 DiagnomIQ *(Company Project)*
+
+**Production Multi-Tenant Healthcare SaaS**
+
+**Tech Stack**
+
+React • TypeScript • Node.js • Express.js • PostgreSQL • Sequelize • AWS S3 • Amazon Bedrock • Cloudflare • JWT • Recharts
 
 ### Highlights
-- Architected **Database-per-Tenant SaaS architecture**
-- Automated **tenant onboarding and PostgreSQL provisioning**
-- Built **Cloudflare DNS automation** for tenant subdomains
-- Integrated **Amazon Bedrock with RAG workflows**
-- Built **oncology survival probability charts**
-- Implemented **S3 tenant-based medical file isolation**
-- Designed **JWT + RBAC authorization flow**
+
+* Built a production Multi-Tenant Healthcare SaaS platform
+* Implemented Database-per-Tenant architecture using PostgreSQL
+* Automated tenant provisioning and Cloudflare DNS configuration
+* Integrated Amazon Bedrock with Retrieval-Augmented Generation (RAG)
+* Implemented JWT Authentication and Role-Based Access Control
+* Built oncology analytics dashboards using Recharts
+* Designed secure tenant-based AWS S3 storage
 
 ---
 
-## 💰 FinSight – Personal Finance Tracker
-🔗 https://fin-sight-nine.vercel.app/
+## ✈️ TripMind AI
 
-**Tech:** Next.js, TypeScript, PostgreSQL, Prisma, Tailwind CSS
+🔗 Live Demo: https://trip-mind-ai-eight.vercel.app/
+
+🔗 GitHub: https://github.com/Amal-A-K/TripMind_AI
+
+**AI-Powered Travel Planner**
+
+**Tech Stack**
+
+React • TypeScript • Node.js • Express.js • MongoDB Atlas • Google Gemini API • JWT • Tesseract.js • PDF Processing
 
 ### Highlights
-- Real-time income and expense tracking
-- Interactive dashboards and analytics
-- Type-safe Prisma ORM operations
-- Optimized PostgreSQL schema
-- Global Vercel deployment
+
+* AI-powered travel itinerary generation
+* OCR-based extraction from PDFs and travel documents
+* Google Gemini integration with retry and fallback logic
+* Layered Node.js backend architecture
+* Secure JWT authentication
+* MongoDB Atlas database
+* Responsive React frontend
 
 ---
 
-## 🤖 AI Product Finder
-🔗 https://github.com/Amal-A-K/aiProductRecomendor
+## 💰 FinSight
 
-**Tech:** React, Node.js, AI API Integration, Tailwind CSS
+🔗 Live Demo: https://fin-sight-nine.vercel.app/
+
+🔗 GitHub: https://github.com/Amal-A-K/FinSight
+
+**Personal Finance Tracker**
+
+**Tech Stack**
+
+Next.js • TypeScript • PostgreSQL • Prisma ORM • Tailwind CSS
 
 ### Highlights
-- AI-powered product recommendation
-- External AI API integrations
-- Predictive search and smart suggestions
-- Scalable backend APIs
-- Responsive React UI
+
+* Personal finance tracking dashboard
+* Income and expense analytics
+* Interactive charts and reports
+* Type-safe Prisma ORM implementation
+* PostgreSQL database architecture
+* Responsive Next.js application
 
 ---
 
-## 🎁 GiftoMart – Gift Management Platform
-**Tech:** React, Node.js, Express.js, MongoDB, TypeScript
+## 🎁 GiftoMart *(Company Project)*
+
+**Gift Management Platform**
+
+**Tech Stack**
+
+React • TypeScript • Node.js • Express.js • MongoDB
 
 ### Highlights
-- Gift creation and tracking workflows
-- Secure authentication
-- RESTful APIs
-- Reusable TypeScript components
+
+* Developed gift management workflows
+* Built reusable TypeScript components
+* Developed REST APIs
+* Collaborated in Agile product development
 
 ---
+## 🏫 ERP for Educational Institute *(Company Project)*
 
-## 🏫 ERP System – Educational Institute
-**Tech:** React.js, Node.js, MongoDB, Redux
+**Tech Stack**
 
-### Highlights
-- Modular ERP workflows
-- REST APIs for academic data
-- Redux state management
-- External API integrations
+React.js • Node.js • Express.js • MongoDB • Redux Toolkit
 
----
+**Highlights**
 
-# 💼 Professional Experience
-
-## Software Engineer Trainee  
-**Softnotions Technologies Private Limited — Technopark, Trivandrum**  
-**Jan 2026 – Apr 2026**
-
-- Led migration of legacy healthcare systems into **multi-tenant SaaS architecture**
-- Built **Database-per-Tenant isolation using PostgreSQL and Sequelize**
-- Automated **Cloudflare DNS + PostgreSQL tenant provisioning**
-- Implemented **JWT authentication + RBAC**
-- Integrated **Amazon Bedrock with RAG workflows**
-- Developed **medical analytics dashboards**
-
----
-
-## MERN Stack Developer  
-**Relaxplzz Technologies — Technopark, Trivandrum**  
-**Apr 2025 – Aug 2025**
-
-- Built scalable frontend features using React + TypeScript
-- Developed REST APIs using Node.js + Express
-- Improved maintainability with reusable components
-- Collaborated in Agile product delivery
-
----
-
-## MERN Stack Developer  
-**SciPy Technologies — Trivandrum**  
-**Jun 2023 – Jan 2024**
-
-- Developed ERP backend APIs
+- Developed RESTful APIs for ERP modules
 - Built responsive React interfaces
-- Integrated external APIs
-- Worked in Agile sprint cycles
+- Integrated third-party APIs
+- Collaborated in Agile development
+
+---
+
+# 📈 Currently Exploring
+
+* AI-powered Full-Stack Applications
+* Large Language Model Integrations
+* Multi-Tenant SaaS Architecture
+* Cloud-native Web Applications
+* Clean Architecture
+* System Design
+* Performance Optimization
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Amal-A-K)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amal-A-K&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-A-K&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Amal-A-K&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
+
 # 🏆 GitHub Achievements
 
-🔗 **Achievements:** https://github.com/Amal-A-K?tab=achievements
+https://github.com/Amal-A-K?tab=achievements
 
-- 🦈 Pull Shark
-- 🚀 YOLO
 ---
 
-# 🤝 Let’s Connect
+# 💼 Open To Opportunities
 
-I enjoy discussing:
+I'm currently open to opportunities as:
 
-- SaaS Architecture
-- Backend Engineering
-- AI + RAG Integrations
-- Healthcare Platforms
-- Full-Stack Product Development
+* Full-Stack Software Engineer
+* Software Engineer
+* MERN Stack Developer
+* PERN Stack Developer
+* Backend Developer
+* AI-enabled Full-Stack Engineer
 
-📩 **Open to exciting full-stack, backend, and SaaS engineering opportunities**
+---
+
+# 🤝 Let's Connect
+
+If you'd like to discuss software engineering, AI-powered applications, SaaS platforms, or exciting opportunities, feel free to reach out.
+
+📧 **Email:** [amal.anandvijay@gmail.com](mailto:amal.anandvijay@gmail.com)
+
+🌐 **Portfolio:** https://amalakportfolio.netlify.app/
+
+💼 **LinkedIn:** https://www.linkedin.com/in/amal-a-k-3ab219218/
+
+⭐ Thanks for visiting my GitHub profile!
