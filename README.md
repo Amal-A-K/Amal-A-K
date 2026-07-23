@@ -35,60 +35,16 @@ My experience includes developing scalable REST APIs, secure authentication syst
 
 # 🛠 Tech Stack
 
-## Languages
+| Category  | Technologies                                                                  |
+| --------- | ----------------------------------------------------------------------------- |
+| Languages | JavaScript(ES6+), TypeScript, HTML5, CSS3                                           |
+| Frontend  | React, Next.js, Tailwind CSS, Redux Toolkit, Material UI, shadcn/ui, Recharts |
+| Backend   | Node.js, Express.js, REST APIs, JWT, RBAC, Multer                             |
+| Database  | PostgreSQL, MongoDB, Prisma ORM, Sequelize, Mongoose                          |
+| AI        | Amazon Bedrock (RAG), Google Gemini, Tesseract OCR                            |
+| Cloud     | AWS S3, Cloudflare, Docker, Vercel, Render, Netlify                           |
+| Tools     | Git, GitHub, Postman, Axios, VS Code                                          |
 
-* JavaScript (ES6+)
-* TypeScript
-* HTML5
-* CSS3
-
-## Frontend
-
-* React.js
-* Next.js
-* Tailwind CSS
-* Material UI
-* shadcn/ui
-* Redux Toolkit
-* Recharts
-
-## Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
-* Role-Based Access Control (RBAC)
-* Multer
-
-## Databases
-
-* PostgreSQL
-* MongoDB
-* Prisma ORM
-* Sequelize ORM
-* Mongoose
-
-## AI & Cloud
-
-* Amazon Bedrock
-* Google Gemini API
-* Retrieval-Augmented Generation (RAG)
-* AWS S3
-* Cloudflare
-* OCR (Tesseract.js)
-
-## Deployment & Tools
-
-* Git
-* GitHub
-* Docker
-* Postman
-* Axios
-* Vercel
-* Render
-* Netlify
-* VS Code
 
 ---
 
